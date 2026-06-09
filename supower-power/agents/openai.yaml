@@ -1,0 +1,4 @@
+interface:
+  display_name: "Supower Power"
+  short_description: "Apply Superpowers workflows with discipline."
+  default_prompt: "Use supower-power to choose the right Superpowers workflow for this task."
