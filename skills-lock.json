@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "supower-power": {
+      "source": "HarrySmith852/skills",
+      "sourceType": "github",
+      "skillPath": "supower-power/SKILL.md",
+      "computedHash": "2a51d3c4da95ae036c882ee38278b780732562d704752229e8597b54fa4e3426"
+    }
+  }
+}
