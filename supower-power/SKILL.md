@@ -13,7 +13,7 @@ Choose the smallest Superpowers workflow that protects the task from sloppy exec
 
 Map the user's request to the relevant workflow:
 
-- New feature, behavior change, or creative implementation: use brainstorming first.
+- New feature, behavior change, or creative implementation: use brainstorming first. Official reference: https://www.skills.sh/obra/superpowers/brainstorming
 - Multi-step implementation from an approved design: use writing-plans, then executing-plans.
 - Bug, failing test, crash, or unexpected behavior: use systematic-debugging before proposing fixes.
 - Feature or bugfix implementation: use test-driven-development unless the user explicitly rules it out.
