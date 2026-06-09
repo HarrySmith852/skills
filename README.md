@@ -9,7 +9,7 @@ Personal agent skills for use with the `skills` CLI and skills.sh.
 ## Install
 
 ```powershell
-npx skills add farooq/skills --skill supower-power
+npx skills add HarrySmith852/skills --skill supower-power
 ```
 
-Replace `farooq/skills` with the GitHub owner and repository name if this repo is published under a different account.
+This repository is intended to appear on skills.sh after it is installed through the `skills` CLI.
