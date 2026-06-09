@@ -32,6 +32,10 @@ Map the user's request to the relevant workflow:
 - State which workflow is being used and why in one short sentence.
 - Prefer evidence from files, commands, tests, or logs over intuition.
 
+## Reference Files
+
+- For frontend or UI work, read `references/frontend-design.md` before proposing or implementing design details.
+
 ## Execution Checklist
 
 1. Classify the task type from the user's latest request.
