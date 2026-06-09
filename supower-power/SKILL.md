@@ -1,6 +1,6 @@
 ---
 name: supower-power
-description: Use when Codex needs to choose, sequence, or enforce Superpowers-style workflows for software development tasks, especially before brainstorming, planning, debugging, test-driven implementation, code review, verification, or finishing a development branch.
+description: Use when Codex needs to choose, sequence, or enforce Superpowers-style workflows for software development tasks, especially before brainstorming, planning, debugging, frontend/UI design work, test-driven implementation, code review, verification, or finishing a development branch.
 ---
 
 # Supower Power
